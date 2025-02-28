@@ -4,9 +4,10 @@ A Small But Powerful PHP Tool That Echos The IP Address & Connection Details Bac
 
 ## Usage
 - `ip-echo.php` (plain text dump)
+- `ip-echo.php?ip` (client IP only)
 - `ip-echo.php?format=json` (JSON output)
 - `ip-echo.php?format=xml` (XML output)
-- `ip-echo.php?iponly=1` (client IP only)
+
 
 ## Licensing
 IP-ECHO is 100% FREE for personal and private use! Want to be added to the IP Echo DNS Pool? Just email us! projects@packet.tel
